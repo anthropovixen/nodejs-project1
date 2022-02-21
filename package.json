@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/anthropovixen/nodejs-project1#readme",
   "dependencies": {
+    "chalk": "^4.0.0",
     "validator": "^13.7.0"
   }
 }
