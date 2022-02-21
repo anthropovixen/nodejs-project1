@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthropovixen/nodejs-project1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthropovixen/nodejs-project1/issues"
+  },
+  "homepage": "https://github.com/anthropovixen/nodejs-project1#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
