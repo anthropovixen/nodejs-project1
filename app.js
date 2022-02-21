@@ -7,3 +7,4 @@ const notes = getNotes();
 console.log(notes);
 
 console.log(validator.isEmail("tanimara@email.com"));
+console.log(validator.isURL("https://anthropovixen.github.io/tanimarasantos/"));
