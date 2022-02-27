@@ -11,4 +11,6 @@ console.log(notes);
 console.log(validator.isEmail("tanimara@email.com"));
 console.log(validator.isURL("https://anthropovixen.github.io/tanimarasantos/"));
 
-console.log(chalk.green.bold.inverse("Success!"));
+console.log(chalk.blue.bold.inverse("Success!"));
+
+console.log(process.argv);
