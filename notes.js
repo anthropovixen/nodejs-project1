@@ -77,7 +77,7 @@ const saveNotes = (notes) => {
   // stringify data to transform into JSON format
   const dataJSON = JSON.stringify(notes);
   // write new data on file notes.json
-  fs.writeFileSync("notes.json", dataJSON);
+  fs.writeFileSync("notes.json", dataJsON);
 };
 
 // loadNotes
